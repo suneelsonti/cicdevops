@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mywebproj</finalName>
+    <finalName>sunnysnotebook</finalName>
   </build>
 </project>
